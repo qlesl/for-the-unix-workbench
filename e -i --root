@@ -1,0 +1,66 @@
+[33mcommit 10e66749ae81dc7a72858bd2376484d3f4285df5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 5877904 393a1e3
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 17:49:32 2026 +0300
+
+    resolve conflict.
+
+[33mcommit 587790430e581082bf15fe61a3c2e508190b6ac8[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 17:47:03 2026 +0300
+
+    change sunny to windy
+
+[33mcommit 393a1e30f5766fc4efe2423cb7ac23eb542904c1[m[33m ([m[1;32mupdate-readme[m[33m)[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 17:45:42 2026 +0300
+
+    change sunny to cloudy
+
+[33mcommit 9a73b2462068153c0d4b87a607675c640debdb56[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 17:24:17 2026 +0300
+
+    add weather info.
+
+[33mcommit efc3ff0bc6e594db7f52b59ac4cb869ffb8ad4f1[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 17:22:45 2026 +0300
+
+    add a third line to readme.txt.
+
+[33mcommit 9cb63dd224cd8b61f4a1e79748950de93bfa27f8[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 16:04:52 2026 +0300
+
+    delete secret.txt.
+
+[33mcommit 0f85fb81c802337cf11b329b242a0574bfa11c56[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 16:02:04 2026 +0300
+
+    add commit history.
+
+[33mcommit 9316e158106278b26c9c25c5d855a98c250ddf3a[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 15:49:17 2026 +0300
+
+    add notsecret.txt and change .gitignore.
+
+[33mcommit 4e3180605196b7eb5a3adf3a082f519cac58228a[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Fri Feb 13 15:20:30 2026 +0300
+
+    add gitignore.
+
+[33mcommit 4cd013f722e90fba98d2c9af911fb10ab4402789[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Thu Feb 12 14:54:17 2026 +0300
+
+    add three files and update readme.txt.
+
+[33mcommit 3e316a4e00d8dc90b329547a0794769ba4773997[m
+Author: qlesl <qleslieq@gmail.com>
+Date:   Thu Feb 12 14:32:30 2026 +0300
+
+    add readme.txt.
