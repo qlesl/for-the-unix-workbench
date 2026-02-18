@@ -1,30 +1,21 @@
-# This is a large heading
+# ece aksoy
+## deneme 1
+### deneme 2
+#### deneme 3
 
-## This is a smaller heading
+I like *cats* and **seagulls**.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+## My fav games
+- disillusion
+- little misfortune
+- hypnospace outlaw
 
-- This is
-- an unordered
-- list
+## My fav animals
+1. seagulls
+2. cats
+3. crows
 
-1. This is
-2. an ordered
-3. list
+can find me [here](https://x.com/20071969_)
 
-Here is `some code` in the middle of a sentence.
+![see the seagull](https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg/1280px-Larus_occidentalis_%28Western_Gull%29%2C_Point_Lobos%2C_CA%2C_US_-_May_2013.jpg)
 
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
